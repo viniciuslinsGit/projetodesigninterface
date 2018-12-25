@@ -18,25 +18,25 @@
     width: 300px;
 }
 
-#transition-tutorial > section {
+#tutorial > section {
     margin-bottom: 30px;
 }
 
-#transition-tutorial > section > h1 {
+#tutorial > section > h1 {
 	margin-left: 0;
 	margin-right: 0;
 }
 
-#transition-tutorial > section > h2 {
+#tutorial > section > h2 {
 	padding-left: 0;
 	padding-right: 0;
 }
 
-#transition-tutorial > section > ul {
+#tutorial > section > ul {
     padding-inline-start: 40px;
     list-style-type: disc;
 }
 
-#transition-tutorial > section > ul > li {
+#tutorial > section > ul > li {
     float: none;
 }
